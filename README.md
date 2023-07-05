@@ -11,4 +11,4 @@ Proyecto Pagina del Mundial 2022
 
 <h2>juego del ahorcado</h2>
 <h3>Consiste en adivinar los paises que jugaran dicho evento.! Mucha suerte.!!</h3>
-<img src="./img/inicio4.png" alt="">
+<img src="./img/inicio5.png" alt="">
