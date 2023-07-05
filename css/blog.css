@@ -1,0 +1,53 @@
+#Bienvenidos {
+    background-color: #5a157a;
+}
+#Bienvenidos h2,h4{
+    text-align: center;
+    color: #fff;
+    padding: 15px;
+}
+
+#Bienvenidos .contenedorr{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#Bienvenidos h2,h4{
+    text-align: center;
+    color: #fff;
+    padding: 15px;
+}
+
+#Bienvenidos img{
+    padding: 15px;
+    width: 100%;
+    max-width: 280px;
+    border-radius: 15px;
+}
+
+#blog{
+    background-color: #660623;
+}
+
+#blog h2,h4{
+    text-align: center;
+    color: #fff;
+    padding: 15px;
+}
+
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog article{
+    margin: 15px;
+}
+
+#blog img{
+    width: 100%;
+    max-width: 280px;
+    border-radius: 15px;
+}
