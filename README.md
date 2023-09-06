@@ -1,4 +1,4 @@
-# Cup-Qatar-2022
+# World Cup Qatar 2022
 Proyecto Pagina del Mundial 2022
 
 <h2>Home</h2>
